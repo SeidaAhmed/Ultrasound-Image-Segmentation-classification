@@ -1,4 +1,4 @@
-# Implementation of deep learning framework -- Unet, using Keras
+# Implementation of deep learning framework -- Unet, using Keras to segment Ultrasound Images
 
 The architecture was inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
 
@@ -30,7 +30,7 @@ makes sure that mask pixels are in \[0, 1\] range.
 
 ### Training
 
-The model is trained for 5 epochs.
+The model is trained for 10 epochs.
 
 After 5 epochs, calculated accuracy is about 0.97.
 
