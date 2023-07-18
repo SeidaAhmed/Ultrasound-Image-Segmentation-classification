@@ -1,8 +1,8 @@
 # AF Discovery -- Segment Ultrasound (US) Images for Amniotic Fluid (AF)" -- an AI4GoodLab 2023 Project
 This repository contains the code and documentation for the team **AF Discovery** as part of the **AI4GoodLab** 2023. We, a team of five, and our TA, completed this project in 3 weeks. The technical desciption is *"Machine Learning Pipeline to segment Ultrasound (US) images for Amniotic Fluid (AF)"*.
 
-## Overview
-![Overview](Img/Overview.jpg)
+![Picture8](https://github.com/SeidaAhmed/Ultrasound-Image-Segmentation-classification/assets/65707004/1d809528-dfa8-4fdb-b565-179bca13962b)
+
 
 ## Our Pitch
 We’re team **AF Discovery**, and we’re going to show you how we can improve patient care for expecting mothers by helping clinicians make important, time-sensitive decisions with confidence, with the help of our machine learning solution. 
